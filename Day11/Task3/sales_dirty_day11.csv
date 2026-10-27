@@ -1,0 +1,16 @@
+OrderID,OrderDate,Product,Quantity,UnitPrice,City
+2001,2026-02-01, Laptop ,2,650.00,Chennai
+2002,02/02/2026,mouse,5,18.50,chennai
+2003,2026-02-03,KEYBOARD,two,32.00,CHENNAI
+2004,2026-02-04,Monitor,1,180.00,
+2005,not-a-date, USB Cable ,4,7.99, Hyderabad 
+2006,2026-02-06,Headphones,,45.00,Bengaluru
+2007,2026-02-07,webcam,3,39.99,hyderabad
+2008,2026-02-08,Laptop Stand,2,27.50,Chennai
+2009,2026-02-09,Mouse Pad,6,9.50,PUNE
+2010,2026-02-10,Docking Station,1,120.00,Pune
+2011,2026-02-11,Microphone,2,59.00,Mumbai
+2012,2026-02-12,Tablet,1,240.00,mumbai
+2013,2026-02-13,Charger,3,15.00,
+2014,2026-02-14,External SSD,2,99999.00,Delhi
+2001,2026-02-01, Laptop ,2,650.00,Chennai
