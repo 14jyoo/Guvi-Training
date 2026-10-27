@@ -1,0 +1,25 @@
+OrderID,OrderDate,Product,Quantity,UnitPrice,City
+4001,2026-04-01,Laptop,2,650.00,Chennai
+4002,2026-04-02,Mouse,5,18.50,chennai
+4003,2026-04-03,Monitor,2,180.00,Hyderabad
+4004,2026-04-04,Keyboard,3,32.00,Bengaluru
+4005,2026-04-05,Gaming Laptop,1,1450.00,Mumbai
+4006,2026-04-06,Headphones,two,45.00,Pune
+4007,2026-04-07,External SSD,1,89.99,Delhi
+4008,2026-04-08,Printer,1,155.00,Chennai
+4009,2026-04-09,Graphics Card,1,899.00,Hyderabad
+4010,2026-04-10,USB Cable,5,7.99,Pune
+4011,2026-04-11,Smartphone,1,799.00,Mumbai
+4012,2026-04-12,Tablet,2,240.00,Delhi
+4013,2026-04-13,Docking Station,1,120.00,Bengaluru
+4014,2026-04-14,Webcam,3,39.99,Chennai
+4015,2026-04-15,Projector,1,1250.00,hyderabad
+4016,2026-04-16,Microphone,2,59.00,Pune
+4017,2026-04-17,4K Monitor,1,499.00,
+4018,2026-04-18,Laptop,1,650.00,Delhi
+4019,2026-04-19,Router,2,,Mumbai
+4020,2026-04-20,Mechanical Keyboard,2,129.00,Chennai
+4021,2026-04-21,Camera,1,999.00,Bengaluru
+4022,2026-04-22,Smartwatch,2,220.00,Hyderabad
+4023,2026-04-23,Power Bank,4,22.00,Pune
+4024,2026-04-24,Laptop Stand,2,27.50, chennai 
