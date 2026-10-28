@@ -1,0 +1,51 @@
+OrderID,OrderDate,Product,Category,Quantity,UnitPrice,DiscountPercent,City,SalesChannel,PaymentMethod
+ORD1001,2026-02-01 00:00:00,Laptop Stand,Accessories,1.0,1299.0,0.0,Mumbai,Online,Net Banking
+ORD1002,2026-01-07 00:00:00,Portable SSD,Storage,3.0,5499.0,10.0,Tirupati,Retail Store,Cash
+ORD1003,2026-07-17 00:00:00,Mechanical Keyboard,Accessories,3.0,2748.9,20.0,Chennai,Online,UPI
+ORD1004,2026-07-07 00:00:00,Smartphone,Mobile,3.0,26248.95,0.0,Kochi,Corporate,Cash
+ORD1005,2026-01-16 00:00:00,Mechanical Keyboard,Accessories,2.0,2249.1,10.0, chennai ,Corporate,Net Banking
+ORD1006,2026-05-06 00:00:00,Tablet,Electronics,2.0,19948.95,5.0,Tirupati,Online,UPI
+ORD1007,2026-02-02 00:00:00,Webcam,Accessories,1.0,2199.0,0.0,Delhi,Corporate,Net Banking
+ORD1008,2026-09-07 00:00:00,Wireless Mouse,Accessories,3.0,523.95,20.0,Pune,Corporate,Debit Card
+ORD1009,2026-01-07 00:00:00,Portable SSD,Storage,3.0,6048.9,20.0,Pune,Marketplace,Net Banking
+ORD1010,2026-01-12 00:00:00,Power Bank,Mobile,1.0,1349.1,15.0,Bengaluru,Retail Store,Cash
+ORD1011,2026-09-08 00:00:00,Tablet,Electronics,2.0,18999.0,0.0,Chennai,Retail Store,Net Banking
+ORD1012,2026-06-16 00:00:00,Portable SSD,accessories ,3.0,5499.0,5.0,Pune,Retail Store,UPI
+ORD1013,2026-08-12 00:00:00,USB-C Hub,Accessories,4.0,1799.0,0.0,Hyderabad,Online,UPI
+ORD1014,2026-08-13 00:00:00,Smartwatch,Wearables,4.0,7199.1,10.0,Delhi,Online,Credit Card
+ORD1015,2026-09-07 00:00:00,Smartphone,Mobile,2.0,24999.0,20.0,Mumbai,Corporate,Cash
+ORD1016,2026-04-22 00:00:00,Wireless Mouse,Accessories,2.0,449.1,0.0,Tirupati,Marketplace,Credit Card
+ORD1017,2026-01-16 00:00:00,Webcam,Accessories,3.0,1979.1,0.0,Mumbai,Marketplace,Debit Card
+ORD1018,2026-03-31 00:00:00,Webcam,Accessories,3.0,2308.95,0.0,Bengaluru,Marketplace,UPI
+ORD1019,2026-07-07 00:00:00,Webcam,Accessories,,2418.9,5.0,Mumbai,Corporate,UPI
+ORD1020,2026-06-09 00:00:00,Headphones,Audio,3.0,4398.9,10.0,Pune,Marketplace,Net Banking
+ORD1021,2026-09-03 00:00:00,Mechanical Keyboard,Accessories,2.0,2499.0,0.0,Bengaluru,Retail Store,Net Banking
+ORD1022,2026-06-07 00:00:00,Bluetooth Speaker,Audio,4.0,2699.1,15.0,Tirupati,Corporate,Debit Card
+ORD1023,2026-09-13 00:00:00,USB-C Hub,Accessories,1.0,1978.9,15.0,Chennai,Retail Store,Credit Card
+ORD1024,2026-06-03 00:00:00,Bluetooth Speaker,Audio,3.0,2999.0,10.0,Hyderabad,Marketplace,Credit Card
+ORD1025,2026-06-02 00:00:00,Bluetooth Speaker,Audio,1.0,unknown,0.0,Mumbai,Online,Debit Card
+ORD1026,2026-04-27 00:00:00,Bluetooth Speaker,Audio,2.0,2999.0,0.0,Delhi,Retail Store,Debit Card
+ORD1027,2026-01-04 00:00:00,Wireless Mouse,Accessories,3.0,499.0,0.0,Tirupati,Retail Store,UPI
+ORD1028,2026-08-01 00:00:00,Bluetooth Speaker,Audio,2.0,2999.0,0.0,Mumbai,Online,UPI
+ORD1029,2026-03-09 00:00:00,Tablet,Electronics,1.0,17099.1,20.0,Hyderabad,Corporate,Cash
+ORD1030,2026-09-20 00:00:00,Smartphone,Mobile,1.0,24999.0,10.0,Kochi,Marketplace,Credit Card
+ORD1031,2026-09-10 00:00:00,Smartphone,Mobile,1.0,22499.1,0.0,Pune,Marketplace,Credit Card
+ORD1032,2026-04-16 00:00:00,Portable SSD,Storage,3.0,6048.9,110.0,Mumbai,Online,Debit Card
+ORD1033,2026-07-20 00:00:00,Wireless Mouse,Accessories,5.0,548.9,0.0,Bengaluru,Corporate,Net Banking
+ORD1034,2026-02-12 00:00:00,Headphones,Audio,1.0,4398.9,0.0,Kochi,Corporate,Cash
+ORD1035,2026-05-13 00:00:00,Mechanical Keyboard,Accessories,1.0,2249.1,10.0,Mumbai,Online,UPI
+ORD1036,2026-05-15 00:00:00,Laptop Stand,Accessories,1.0,1363.95,15.0,Kochi,Corporate,Cash
+ORD1037,2026-01-29 00:00:00,Laptop Stand,Accessories,2.0,1428.9,0.0,Bengaluru,Retail Store,Debit Card
+ORD1038,not-a-date,Tablet,Electronics,5.0,18999.0,0.0,Chennai,Corporate,Credit Card
+ORD1039,2026-08-10 00:00:00,Smartwatch,Wearables,5.0,7199.1,20.0,Mumbai,Marketplace,Cash
+ORD1040,2026-03-23 00:00:00,Smartwatch,Wearables,1.0,7999.0,5.0,Pune,Marketplace,Cash
+ORD1041,2026-02-28 00:00:00,Headphones,Audio,2.0,4398.9,20.0,Delhi,Retail Store,Credit Card
+ORD1042,2026-01-11 00:00:00,Bluetooth Speaker,Audio,5.0,2699.1,10.0,Chennai,Corporate,UPI
+ORD1043,2026-04-06 00:00:00,Wireless Mouse,Accessories,2.0,449.1,5.0,Mumbai,Online,Net Banking
+ORD1044,2026-04-18 00:00:00,Mechanical Keyboard,Accessories,1.0,2499.0,10.0,Kochi,Corporate,
+ORD1045,2026-04-08 00:00:00,Smartphone,Mobile,5.0,22499.1,10.0,Pune,Online,Debit Card
+ORD1046,2026-05-22 00:00:00,Bluetooth Speaker,Audio,5.0,3298.9,0.0,Hyderabad,Retail Store,Net Banking
+ORD1047,2026-01-03 00:00:00,Tablet,Electronics,2.0,20898.9,10.0,Kochi,Marketplace,Cash
+ORD1009,2026-01-07 00:00:00,Portable SSD,Storage,3.0,6048.9,20.0,Pune,Marketplace,Net Banking
+ORD1049,2026-05-18 00:00:00,Mechanical Keyboard,Accessories,3.0,2748.9,20.0,Mumbai,Retail Store,Credit Card
+ORD1050,2026-04-11 00:00:00,Wireless Mouse,Accessories,3.0,449.1,0.0,Bengaluru,Marketplace,Net Banking
