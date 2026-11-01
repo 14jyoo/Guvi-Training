@@ -1,0 +1,66 @@
+OrderID,OrderDate,Product,Quantity,UnitPrice,City
+5001,2026-04-01,Laptop,2.0,650.0,Chennai
+5002,2026-04-02,Mouse,5.0,18.5,Bengaluru
+5003,2026-04-03,Monitor,2.0,180.0,Hyderabad
+5004,2026-04-04,Keyboard,3.0,32.0,Mumbai
+5005,2026-04-05,Gaming Laptop,1.0,1450.0,Pune
+5006,2026-04-06,Headphones,,45.0,Delhi
+5007,2026-04-07,External SSD,1.0,89.99,Kolkata
+5008,2026-04-08,Printer,1.0,155.0,Ahmedabad
+5009,2026-04-09,Graphics Card,1.0,,Jaipur
+5010,2026-04-10,USB Cable,5.0,7.99,Lucknow
+5011,2026-04-11,Webcam,2.0,54.5,Coimbatore
+5012,2026-04-12,Router,3.0,79.0,Kochi
+5013,2026-04-13,Laptop,2.0,650.0, chennai 
+5014,2026-04-14,Mouse,5.0,18.5,Visakhapatnam
+5015,2026-04-15,Monitor,2.0,180.0,Vijayawada
+5016,2026-04-16,Keyboard,3.0,32.0,Tirupati
+5017,2026-04-17,Gaming Laptop,1.0,1450.0,Mysuru
+5018,2026-04-18,Headphones,4.0,45.0,Mangaluru
+5019,2026-04-19,External SSD,1.0,89.99,BENGALURU 
+5020,2026-04-20,Printer,1.0,155.0,Trichy
+5021,2026-04-21,Graphics Card,1.0,899.0,Salem
+5022,2026-04-22,,5.0,7.99,Erode
+5023,2026-04-23,Webcam,2.0,54.5,Vellore
+5024,2026-04-24,Router,3.0,79.0,Tirunelveli
+5025,2026-04-25,Laptop,unknown,650.0,Warangal
+5026,2026-04-26,Mouse,5.0,18.5,Nizamabad
+5027,2026-04-27,Monitor,2.0,180.0,Nagpur
+5028,2026-04-28,Keyboard,3.0,32.0,Nashik
+5029,2026-04-01,Gaming Laptop,1.0,1450.0,Aurangabad
+5030,2026-04-02,Headphones,4.0,not available,Surat
+5031,2026-04-03,External SSD,1.0,89.99,Vadodara
+5032,2026-04-04,Printer,1.0,155.0,Rajkot
+5033,2026-04-05,Graphics Card,1.0,899.0,Bhopal
+5034,,USB Cable,5.0,7.99,Indore
+5035,2026-04-07,Webcam,2.0,54.5,Gwalior
+5036,2026-04-08,Router,3.0,79.0,Jabalpur
+5037,2026-04-09,Laptop,2.0,650.0,Patna
+5038,2026-04-10,Mouse,5.0,18.5,Ranchi
+5039,2026-04-11,Monitor,2.0,180.0,Bhubaneswar
+5040,2026-04-12,Keyboard,3.0,32.0,Cuttack
+5041,2026-04-13,Gaming Laptop,-3,1450.0,Guwahati
+5042,2026-04-14,Headphones,4.0,45.0,Shillong
+5043,2026-04-15,External SSD,1.0,89.99,Imphal
+5044,2026-04-16,Printer,1.0,155.0,Aizawl
+5045,2026-04-17,Graphics Card,1.0,-25.0,Agartala
+5046,2026-04-18,USB Cable,5.0,7.99,Dehradun
+5047,2026-04-19,Webcam,2.0,54.5,Haridwar
+5048,2026-04-20,Router,3.0,79.0,Chandigarh
+5049,2026-04-21,Laptop,2.0,650.0,
+5050,2026-04-22,Mouse,5.0,18.5,Ludhiana
+5051,2026-04-23,Monitor,2.0,180.0,Jalandhar
+5052,2026-04-24,Keyboard,3.0,32.0,Jammu
+5053,2026-04-25,Gaming Laptop ,1.0,1450.0,Srinagar
+5054,2026-04-26,Headphones,4.0,45.0,Noida
+5055,2026-04-27,External SSD,1.0,89.99,Gurugram
+5056,2026-04-28,Printer,1.0,155.0,Faridabad
+5057,2026-04-01,Graphics Card,500,899.0,Ghaziabad
+5058,2026-04-02,USB Cable,5.0,7.99,Kanpur
+5059,2026-04-03,Webcam,2.0,54.5,Varanasi
+5060,2026-04-04,Router,3.0,79.0,Prayagraj
+5001,2026-04-20,Laptop,1.0,650.0,Chennai
+5002,2026-04-21,Monitor,2.0,180.0,Hyderabad
+5063,2026-04-22,Mouse,10.0,18.5, mUmBaI 
+5064,2026-04-23,Keyboard,4.0,999999.0,Bengaluru
+5001,2026-04-24,External SSD,2.0,89.99,Pune
