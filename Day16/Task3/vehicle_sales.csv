@@ -1,0 +1,102 @@
+ORDER_ID,ORDER_DATE,CUSTOMER_ID,VEHICLE_ID,BRAND,MODEL,VEHICLE_TYPE,QUANTITY,UNIT_PRICE,DISCOUNT,PAYMENT_STATUS,DEALERSHIP_LOCATION,CUSTOMER_NAME,CUSTOMER_TYPE,CITY,STATE,EMAIL,SIGNUP_DATE
+V0001,2026-01-13,C024,VH5506,Maruti Suzuki,Baleno,Hatchback,1,688113.88,25000,PAID,Jaipur,Customer 24,Fleet,Hyderabad,Telangana,customer24@example.com,2025-08-05
+V0002,2026-08-05,C002,VH1488,Maruti Suzuki,Baleno,Hatchback,1,687587.09,15000,PAID,Jaipur,Customer 02,Corporate,Mumbai,Maharashtra,customer2@example.com,2025-01-19
+V0003,2026-10-07,C014,VH4611,Mahindra,Scorpio-N,SUV,2,1774994.39,0,PENDING,Pune,Customer 14,Corporate,Hyderabad,Telangana,customer14@example.com,2025-05-07
+V0004,2026-05-23,C005,VH4527,Toyota,Innova Hycross,MUV,1,2059978.02,10000,PAID,Delhi,Customer 05,Corporate,Kochi,Kerala,customer5@example.com,2025-02-15
+V0005,31-02-2026,C026,VH1711,Toyota,Innova Hycross,MUV,2,2212752.29,10000,PAID,Jaipur,Customer 26,Corporate,Delhi,Delhi,customer26@example.com,2025-08-23
+V0006,2026-07-05,C019,VH4150,Honda,City,Sedan,1,1159164.88,0,FINANCED,Mumbai,Customer 19,Retail,Jaipur,Rajasthan,customer19@example.com,2025-06-21
+V0007,2026-02-21,C013,VH5554,Mahindra,Scorpio-N,SUV,2,1787991.64,5000,PENDING,Delhi,Customer 13,Retail,Bengaluru,Karnataka,customer13@example.com,2025-04-28
+V0008,2026-04-18,C022,VH5374,Toyota,Innova Hycross,MUV,1,2238414.11,0,PENDING,Bengaluru,Customer 22,Retail,Mumbai,Maharashtra,customer22@example.com,2025-07-18
+V0009,2026-07-14,C009,VH4598,Renault,Kwid,Hatchback,two,548525.28,0,PENDING,Chennai,Customer 09,Fleet,Jaipur,Rajasthan,customer9@example.com,2025-03-23
+V0010,2026-07-25,C009,VH2084,Toyota,Innova Hycross,MUV,1,2345423.92,15000,FINANCED,Hyderabad,Customer 09,Fleet,Jaipur,Rajasthan,customer9@example.com,2025-03-23
+V0011,2026-07-22,C029,VH8517,Renault,Kwid,Hatchback,1,500438.03,0,FINANCED,Kolkata,Customer 29,Corporate,Jaipur,Rajasthan,customer29@example.com,2025-09-19
+V0012,2026-10-26,C013,VH6930,Kia,Seltos,SUV,1,1457422.37,0,CANCELLED,Mumbai,Customer 13,Retail,Bengaluru,Karnataka,customer13@example.com,2025-04-28
+V0013,2026-02-26,C005,VH3621,Tata,Nexon,SUV,2,N/A,10000,CANCELLED,Kolkata,Customer 05,Corporate,Kochi,Kerala,customer5@example.com,2025-02-15
+V0014,2026-09-28,C009,VH1188,Renault,Kwid,Hatchback,1,535118.3,15000,FINANCED,Delhi,Customer 09,Fleet,Jaipur,Rajasthan,customer9@example.com,2025-03-23
+V0015,2026-05-31,C014,VH3591,Maruti Suzuki,Baleno,Hatchback,2,662773.86,25000,FINANCED,Jaipur,Customer 14,Corporate,Hyderabad,Telangana,customer14@example.com,2025-05-07
+V0016,2026-09-17,C030,VH2743,Hyundai,Creta,SUV,1,1529267.29,15000,PENDING,Bengaluru,Customer 30,Fleet,Kolkata,West Bengal,customer30@example.com,2025-09-28
+V0017,2026-03-24,C018,VH9689,Toyota,Innova Hycross,MUV,1,2234828.49,10000,PAID,Mumbai,Customer 18,Fleet,Ahmedabad,Gujarat,customer18@example.com,2025-06-12
+V0018,2026-06-07,C008,VH1949,Toyota,Innova Hycross,MUV,-1,2333059.38,0,PAID,Ahmedabad,Customer 08,Corporate,Ahmedabad,Gujarat,customer8@example.com,2025-03-14
+V0019,2026-09-30,C025,VH3060,Maruti Suzuki,Baleno,Hatchback,1,738403.29,15000,PENDING,Kochi,Customer 25,Retail,Kochi,Kerala,customer25@example.com,2025-08-14
+V0020,2026-08-05,C007,VH9835,MG,Comet EV,Electric,1,827257.47,10000,FINANCED,Ahmedabad,Customer 07,Retail,Pune,Maharashtra,customer7@example.com,2025-03-05
+V0021,2026-08-20,C004,VH5061,MG,Comet EV,Electric,1,744195.31,0,PENDING,Kolkata,Customer 04,Retail,Hyderabad,Telangana,customer4@example.com,2025-02-06
+V0022,2026-01-04,C003,VH1964,Mahindra,Scorpio-N,SUV,0,1628872.09,0,FINANCED,Mumbai,Customer 03,Fleet,Bengaluru,Karnataka,customer3@example.com,2025-01-28
+V0023,2026-05-02,C009,VH8953,MG,Comet EV,Electric,1,805021.94,25000,CANCELLED,Hyderabad,Customer 09,Fleet,Jaipur,Rajasthan,customer9@example.com,2025-03-23
+V0024,2026-07-28,C007,VH2545,Renault,Kwid,Hatchback,1,533227.36,5000,CANCELLED,Pune,Customer 07,Retail,Pune,Maharashtra,customer7@example.com,2025-03-05
+V0025,2026-01-28,C022,VH2612,Renault,Kwid,Hatchback,1,511898.09,5000,PAID,Hyderabad,Customer 22,Retail,Mumbai,Maharashtra,customer22@example.com,2025-07-18
+V0026,2026-04-08,C018,VH8350,Mahindra,Scorpio-N,SUV,1,-5000,5000,CANCELLED,Hyderabad,Customer 18,Fleet,Ahmedabad,Gujarat,customer18@example.com,2025-06-12
+V0027,2026-08-15,C026,VH2604,Maruti Suzuki,Baleno,Hatchback,1,737527.09,15000,PAID,Mumbai,Customer 26,Corporate,Delhi,Delhi,customer26@example.com,2025-08-23
+V0028,2026-03-27,C014,VH8956,Mahindra,Scorpio-N,SUV,2,1669849.24,10000,PAID,Bengaluru,Customer 14,Corporate,Hyderabad,Telangana,customer14@example.com,2025-05-07
+V0029,2026-01-02,C013,VH5345,Kia,Seltos,SUV,2,1303613.83,25000,CANCELLED,Bengaluru,Customer 13,Retail,Bengaluru,Karnataka,customer13@example.com,2025-04-28
+V0030,2026-06-01,C007,VH1958,Mahindra,Scorpio-N,SUV,3,1816006.41, ,FINANCED,Chennai,Customer 07,Retail,Pune,Maharashtra,customer7@example.com,2025-03-05
+V0031,2026-10-27,C016,VH9238,Tata,Nexon,SUV,3,897929.77,15000,PAID,Bengaluru,Customer 16,Retail,Delhi,Delhi,customer16@example.com,2025-05-25
+V0032,2026-02-04,C022,VH4853,Maruti Suzuki,Baleno,Hatchback,2,676210.94,15000,PENDING,Kolkata,Customer 22,Retail,Mumbai,Maharashtra,customer22@example.com,2025-07-18
+V0033,2026-01-21,C020,VH2343,BYD,Atto 3,Electric,2,2511690.28,15000,FINANCED,Kochi,Customer 20,Corporate,Kolkata,West Bengal,customer20@example.com,2025-06-30
+V0034,2026-06-10, C004 ,VH5351,Mahindra,Scorpio-N,SUV,2,1646645.92,25000,FINANCED,Ahmedabad,,,,,,
+V0035,2026-02-07,C001,VH8508,Toyota,Innova Hycross,MUV,3,2375455.96,0,PAID,Jaipur,Customer 01,Retail,Chennai,Tamil Nadu,customer1@example.com,2025-01-10
+V0036,2026-09-17,C009,VH3170,Mahindra,Scorpio-N,SUV,1,1856641.97,0,FINANCED,Kochi,Customer 09,Fleet,Jaipur,Rajasthan,customer9@example.com,2025-03-23
+V0037,2026-08-13,C027,VH9900,Hyundai,Creta,SUV,1,1475909.24,25000,PAID,Jaipur,Customer 27,Fleet,Pune,Maharashtra,customer27@example.com,2025-09-01
+V0038,2026-02-23,,VH3200,Honda,City,Sedan,1,1173085.73,0,PENDING,Kochi,,,,,,
+V0039,2026-04-18,C023,VH6617,Honda,City,Sedan,1,1287499.43,5000,CANCELLED,Kochi,Customer 23,Corporate,Bengaluru,Karnataka,customer23@example.com,2025-07-27
+V0040,2026-02-17,C021,VH7939,Tata,Nexon,SUV,1,880701.19,5000,PENDING,Kochi,Customer 21,Fleet,Chennai,Tamil Nadu,customer21@example.com,2025-07-09
+V0041,2026-08-15,C018,VH8007,Hyundai,Creta,SUV,3,1336243.37,0,PENDING,Jaipur,Customer 18,Fleet,Ahmedabad,Gujarat,customer18@example.com,2025-06-12
+V0041,2026-07-09,C019,VH3426,Tata,Nexon,SUV,2,893371.72,5000,FINANCED,Chennai,Customer 19,Retail,Jaipur,Rajasthan,customer19@example.com,2025-06-21
+V0043,2026-04-18,C022,VH5088,Toyota,Innova Hycross,MUV,1,2148494.88,15000,CANCELLED,Kolkata,Customer 22,Retail,Mumbai,Maharashtra,customer22@example.com,2025-07-18
+V0044,2026-05-02,C028,VH3662,Hyundai,Creta,SUV,1,1538488.56,0,PENDING,Delhi,Customer 28,Retail,Ahmedabad,Gujarat,customer28@example.com,2025-09-10
+V0045,2026-05-08,C009,VH3608,Kia,Seltos,SUV,1,1324629.01,0,CANCELLED,Hyderabad,Customer 09,Fleet,Jaipur,Rajasthan,customer9@example.com,2025-03-23
+V0046,2026-08-24,C012,VH6000,  Tata  ,Scorpio-N,SUV,1,1672418.59,25000,PENDING,Pune,Customer 12,Fleet,Mumbai,Maharashtra,customer12@example.com,2025-04-19
+V0047,2026-05-23,C028,VH2137,Toyota,Innova Hycross,MUV,1,2147603.44,15000,CANCELLED,Jaipur,Customer 28,Retail,Ahmedabad,Gujarat,customer28@example.com,2025-09-10
+V0048,2026-01-15,C004,VH5279,Toyota,Innova Hycross,MUV,1,2228367.59,5000,PAID,Mumbai,Customer 04,Retail,Hyderabad,Telangana,customer4@example.com,2025-02-06
+V0049,2026-08-11,C012,VH6139,BYD,Atto 3,Electric,2,2491633.87,15000,PAID,Pune,Customer 12,Fleet,Mumbai,Maharashtra,customer12@example.com,2025-04-19
+V0050,2026-04-08,C009,VH1727,BYD, ,Electric,2,2254662.98,15000,PENDING,Delhi,Customer 09,Fleet,Jaipur,Rajasthan,customer9@example.com,2025-03-23
+V0051,2026-02-05,C022,VH6409,Kia,Seltos,SUV,3,1309805.78,0,FINANCED,Jaipur,Customer 22,Retail,Mumbai,Maharashtra,customer22@example.com,2025-07-18
+V0052,2026-07-29,C011,VH7592,Honda,City,Sedan,1,1260882.5,0,CANCELLED,Pune,Customer 11,Corporate,Chennai,Tamil Nadu,customer11@example.com,2025-04-10
+V0053,2026-10-19,C010,VH7653,Hyundai,Creta,SUV,3,1527424.24,5000,FINANCED,Hyderabad,Customer 10,Retail,Kolkata,West Bengal,customer10@example.com,2025-04-01
+V0054,2026-10-24,C020,VH6279,Kia,Seltos,SUV,2,1337425.78,25000,unknown,Jaipur,Customer 20,Corporate,Kolkata,West Bengal,customer20@example.com,2025-06-30
+V0055,2026-03-28,C022,VH2389,Renault,Kwid,Hatchback,1,521285.61,25000,FINANCED,Mumbai,Customer 22,Retail,Mumbai,Maharashtra,customer22@example.com,2025-07-18
+V0056,2026-06-08,C008,VH4262,Mahindra,Scorpio-N,SUV,1,1616839.11,0,CANCELLED,Kolkata,Customer 08,Corporate,Ahmedabad,Gujarat,customer8@example.com,2025-03-14
+V0057,2026-08-22,C014,VH4185,Maruti Suzuki,Baleno,Hatchback,2,719352.25,0,PENDING,Chennai,Customer 14,Corporate,Hyderabad,Telangana,customer14@example.com,2025-05-07
+V0058,2026-08-06,C008,VH3881,Maruti Suzuki,Baleno,Hatchback,3,715916.15,15000,PENDING,,Customer 08,Corporate,Ahmedabad,Gujarat,customer8@example.com,2025-03-14
+V0059,2026-03-10,C026,VH8612,Renault,Kwid,Hatchback,3,560592.65,15000,FINANCED,Ahmedabad,Customer 26,Corporate,Delhi,Delhi,customer26@example.com,2025-08-23
+V0060,2026-09-16,C014,VH9976,BYD,Atto 3,Electric,2,2605705.58,25000,CANCELLED,Ahmedabad,Customer 14,Corporate,Hyderabad,Telangana,customer14@example.com,2025-05-07
+V0061,2026-05-07,C027,VH5543,Honda,City,Sedan,3,1246919.4,0,FINANCED,Ahmedabad,Customer 27,Fleet,Pune,Maharashtra,customer27@example.com,2025-09-01
+V0062,2026/13/45,C008,VH5451,Maruti Suzuki,Baleno,Hatchback,1,699230.54,15000,PAID,Bengaluru,Customer 08,Corporate,Ahmedabad,Gujarat,customer8@example.com,2025-03-14
+V0063,2026-04-29,C013,VH3503,Hyundai,Creta,SUV,1,1348901.09,10000,FINANCED,Jaipur,Customer 13,Retail,Bengaluru,Karnataka,customer13@example.com,2025-04-28
+V0064,2026-08-01,C002,VH4388,Renault,Kwid,Hatchback,2,510804.47,15000,PAID,Kolkata,Customer 02,Corporate,Mumbai,Maharashtra,customer2@example.com,2025-01-19
+V0065,2026-09-02,C001,VH6763,Kia,Seltos,SUV,1,1404750.63,10000,PENDING,Ahmedabad,Customer 01,Retail,Chennai,Tamil Nadu,customer1@example.com,2025-01-10
+V0066,2026-05-20,C014,VH8956,Mahindra,Scorpio-N,SUV,1,1718880.02,-10000,CANCELLED,Bengaluru,Customer 14,Corporate,Hyderabad,Telangana,customer14@example.com,2025-05-07
+V0067,2026-03-07,C020,VH9751,Renault,Kwid,Hatchback,1,553856.48,15000,PAID,Mumbai,Customer 20,Corporate,Kolkata,West Bengal,customer20@example.com,2025-06-30
+V0068,2026-03-11,C028,VH8564,Kia,Seltos,SUV,1,1252861.48,10000,FINANCED,Hyderabad,Customer 28,Retail,Ahmedabad,Gujarat,customer28@example.com,2025-09-10
+V0069,2026-06-17,C011,VH7211,Renault,Kwid,Hatchback,1,540967.22,10000,FINANCED,Mumbai,Customer 11,Corporate,Chennai,Tamil Nadu,customer11@example.com,2025-04-10
+V0070,2026-01-10,C999,VH9837,Renault,Kwid,Hatchback,1,561592.33,5000,PENDING,Mumbai,,,,,,
+V0071,2026-01-16,C008,VH4266,Tata,Nexon,SUV,1,968443.02,0,PENDING,Ahmedabad,Customer 08,Corporate,Ahmedabad,Gujarat,customer8@example.com,2025-03-14
+V0072,2026-10-16,C007,VH8619,Maruti Suzuki,Baleno,Hatchback,1,750746.66,0,PAID,Bengaluru,Customer 07,Retail,Pune,Maharashtra,customer7@example.com,2025-03-05
+V0073,2026-02-25,C019,VH1420,Honda,City,Sedan,1,1265159.35,10000,CANCELLED,Hyderabad,Customer 19,Retail,Jaipur,Rajasthan,customer19@example.com,2025-06-21
+V0074,2026-05-05,C004,VH5941,Maruti Suzuki,Baleno,Hatchback,3,,15000,PAID,Delhi,Customer 04,Retail,Hyderabad,Telangana,customer4@example.com,2025-02-06
+V0075,2026-08-08,C022,VH7071,MG,Comet EV,Electric,1,800762.98,5000,PAID,Pune,Customer 22,Retail,Mumbai,Maharashtra,customer22@example.com,2025-07-18
+V0076,2026-02-24,C014,VH6934,Renault,Kwid,Hatchback,2,537248.08,10000,PENDING,Jaipur,Customer 14,Corporate,Hyderabad,Telangana,customer14@example.com,2025-05-07
+V0077,2026-10-03,C025,VH8921,Honda,City,Sedan,2,1237114.9,25000,FINANCED,Delhi,Customer 25,Retail,Kochi,Kerala,customer25@example.com,2025-08-14
+V0078,2026-02-14,C009,VH8385,Mahindra,Scorpio-N,SUV,1,1820133.36,15000, paid ,Delhi,Customer 09,Fleet,Jaipur,Rajasthan,customer9@example.com,2025-03-23
+V0079,2026-09-11,C028,VH6325,Tata,Nexon,SUV,1,948107.59,5000,FINANCED,Delhi,Customer 28,Retail,Ahmedabad,Gujarat,customer28@example.com,2025-09-10
+V0080,2026-05-22,C018,VH1166,Honda,City,Sedan,3,1339612.52,0,PENDING,Pune,Customer 18,Fleet,Ahmedabad,Gujarat,customer18@example.com,2025-06-12
+V0081,2026-10-12,C025,VH4937,Renault,Kwid,Hatchback,2,532139.12,10000,CANCELLED,Chennai,Customer 25,Retail,Kochi,Kerala,customer25@example.com,2025-08-14
+V0082,2026-05-31,C008,,Maruti Suzuki,Baleno,Hatchback,1,697674.93,15000,FINANCED,Ahmedabad,Customer 08,Corporate,Ahmedabad,Gujarat,customer8@example.com,2025-03-14
+V0083,2026-09-29,C012,VH7971,MG,Comet EV,Electric,3,778341.29,25000,CANCELLED,Kochi,Customer 12,Fleet,Mumbai,Maharashtra,customer12@example.com,2025-04-19
+V0084,2026-05-09,C008,VH2976,Honda,City,Sedan,1,1213109.59,25000,PENDING,Hyderabad,Customer 08,Corporate,Ahmedabad,Gujarat,customer8@example.com,2025-03-14
+V0085,2026-09-05,C009,VH9595,Mahindra,Scorpio-N,SUV,3,1689239.64,0,PENDING,Kochi,Customer 09,Fleet,Jaipur,Rajasthan,customer9@example.com,2025-03-23
+V0086,2026-07-04,C006,VH5952,Mahindra,Scorpio-N,SUV,1.5,1808245.18,0,FINANCED,Chennai,Customer 06,Fleet,Delhi,Delhi,customer6@example.com,2025-02-24
+V0087,2026-10-11,C010,VH3068,Tata,Nexon,SUV,2,889593.32,0,FINANCED,Ahmedabad,Customer 10,Retail,Kolkata,West Bengal,customer10@example.com,2025-04-01
+V0088,2026-08-14,C011,VH4020,Renault,Kwid,Hatchback,1,499406.2,10000,PAID,Mumbai,Customer 11,Corporate,Chennai,Tamil Nadu,customer11@example.com,2025-04-10
+V0089,2026-09-09,C003,VH1878,Kia,Seltos,SUV,1,1274226.68,15000,FINANCED,Mumbai,Customer 03,Fleet,Bengaluru,Karnataka,customer3@example.com,2025-01-28
+V0090,2026-03-02,C018,VH7818,Mahindra,Scorpio-N,SUV,3,1776915.52,15000,PENDING,  Chennai  ,Customer 18,Fleet,Ahmedabad,Gujarat,customer18@example.com,2025-06-12
+V0091,2026-08-19,C030,VH8253,Kia,Seltos,SUV,1,1427796.0,10000,FINANCED,Kolkata,Customer 30,Fleet,Kolkata,West Bengal,customer30@example.com,2025-09-28
+V0092,2026-01-31,C020,VH2625,BYD,Atto 3,Electric,1,2499201.89,5000,PAID,Bengaluru,Customer 20,Corporate,Kolkata,West Bengal,customer20@example.com,2025-06-30
+V0093,2026-03-30,C018,VH2229,Mahindra,Scorpio-N,SUV,1,1610749.2,10000,CANCELLED,Kochi,Customer 18,Fleet,Ahmedabad,Gujarat,customer18@example.com,2025-06-12
+V0094,2026-04-29,C010,VH5632,,Nexon,SUV,2,884819.32,0,FINANCED,Kolkata,Customer 10,Retail,Kolkata,West Bengal,customer10@example.com,2025-04-01
+V0095,2026-08-06,C004,VH9922,Mahindra,Scorpio-N,SUV,1,1791337.72,5000,PENDING,Mumbai,Customer 04,Retail,Hyderabad,Telangana,customer4@example.com,2025-02-06
+V0096,2026-03-26,C026,VH6039,Tata,Nexon,SUV,3,987841.57,15000,FINANCED,Ahmedabad,Customer 26,Corporate,Delhi,Delhi,customer26@example.com,2025-08-23
+V0097,2026-08-28,C023,VH5982,Maruti Suzuki,Baleno,Hatchback,2,770996.3,15000,CANCELLED,Ahmedabad,Customer 23,Corporate,Bengaluru,Karnataka,customer23@example.com,2025-07-27
+V0098,2026-01-21,C029,VH8078,Maruti Suzuki,Baleno,Hatchback,1,731947.81,abc,PAID,Hyderabad,Customer 29,Corporate,Jaipur,Rajasthan,customer29@example.com,2025-09-19
+V0099,2026-10-28,C001,VH5415,BYD,Atto 3,Electric,3,2269770.82,0,CANCELLED,Jaipur,Customer 01,Retail,Chennai,Tamil Nadu,customer1@example.com,2025-01-10
+V0100,2026-05-23,C006,VH8141,Renault,Kwid,Hatchback,2,559025.4,10000,FINANCED,Pune,Customer 06,Fleet,Delhi,Delhi,customer6@example.com,2025-02-24
+V0011,2026-07-22,C029,VH8517,Renault,Kwid,Hatchback,1,500438.03,0,FINANCED,Kolkata,Customer 29,Corporate,Jaipur,Rajasthan,customer29@example.com,2025-09-19
